@@ -1,4 +1,4 @@
-# Simple Stopwatch
+# Simple Whiteboard
 
 Simple Whiteboard app made with tkinter and ttkbootstrap.
 
